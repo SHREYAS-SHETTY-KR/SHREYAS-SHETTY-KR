@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Anything related to Data**
 
-- 👨‍💻 All of my projects are available at [Git-repo](https://github.com/SHREYAS-SHETTY-KR?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/SHREYAS-SHETTY-KR?tab=repositories)
 
 - 📫 How to reach me **shreyasshetty028@gmail.com**
 
